@@ -21,8 +21,7 @@ Programmet anvender CLI til at tage:
 
 
 ## How to use eksempel 
-Ved de to første eksempler hvor input læses fra CSV-fil, bliver der læst fra `people-with-age.csv`. 
-Hvor indholdet er:
+Ved de to første eksempler hvor input læses fra CSV-fil, bliver der læst fra `people-with-age.csv`, hvor indholdet er:
 ```
 Nuvi Våle, 18
 
