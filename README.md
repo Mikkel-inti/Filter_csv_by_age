@@ -5,7 +5,8 @@ Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing
 - `main.c` – **Samlede kørsel**, her bestemmes om hvorvidt det er algoritmen caesar eller vigenere, samt om det skal krypteres eller dekrypteres. (For vigenere inklusiv KEY)
 - `people-with-age.csv` -
 
-## How to use eksempel (input(csv), output(csv)):
+## How to use eksempel 
+### input(csv) -> output(csv) :
 
 1. Byg programmet ( evt.: `Ctrl Shift B`)
 2. Åben terminal og skriv først : .\main
@@ -19,7 +20,7 @@ Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing
 Din fulde terminal skulle nu ligne dette (Tryk enter):
   - `./main.exe 17 people-with-age.csv out.csv`
 
-## How to use eksempel (input(csv), output(terminal)):
+### input(csv) -> output(terminal) :
 
 1. Byg programmet ( evt.: `Ctrl Shift B`)
 2. Åben terminal og skriv først : .\main
@@ -31,7 +32,7 @@ Din fulde terminal skulle nu ligne dette (Tryk enter):
 Din fulde terminal skulle nu ligne dette (Tryk enter):
   - `./main.exe 17 people-with-age.csv`
 
-## How to use eksempel (input(terminal), output(terminal)):
+### input(terminal) -> output(terminal) :
 
 1. Byg programmet ( evt.: `Ctrl Shift B`)
 2. Åben terminal og skriv først : .\main
