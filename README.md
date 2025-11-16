@@ -35,6 +35,11 @@ Programmet anvender CLI til at tage:
 Din fulde terminal skulle nu ligne dette (Tryk enter):
   - `./main.exe 17 people-with-age.csv out.csv`
 
+#### Eksempel udskrift:
+<img width="612" height="92" alt="image" src="https://github.com/user-attachments/assets/76a03d10-5d34-4014-b7c1-83b6cc312b3d" />
+
+
+
 ### input(csv) -> output(terminal) :
 
 1. Byg programmet ( evt.: `Ctrl Shift B`)
@@ -46,6 +51,8 @@ Din fulde terminal skulle nu ligne dette (Tryk enter):
 
 Din fulde terminal skulle nu ligne dette (Tryk enter):
   - `./main.exe 17 people-with-age.csv`
+#### Eksempel udskrift:
+<img width="443" height="115" alt="image" src="https://github.com/user-attachments/assets/8b076797-cf3e-4a52-bf7d-316e6779b604" />
 
 ### input(terminal) -> output(terminal) :
 
@@ -60,3 +67,5 @@ Din fulde terminal skulle nu ligne dette (Tryk enter):
 
 Din fulde terminal skulle nu ligne dette (Tryk enter):
   - `Klara, 17 | ./main.exe 17 `
+
+#### Eksempel udskrift:
