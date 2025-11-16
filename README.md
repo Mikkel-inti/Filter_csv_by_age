@@ -21,6 +21,19 @@ Programmet anvender CLI til at tage:
 
 
 ## How to use eksempel 
+Ved de to første eksempler hvor input læses fra CSV-fil, bliver der læst fra `people-with-age.csv`. 
+Hvor indholdet er:
+```
+Nuvi Våle, 18
+
+Aeral Körn
+Lumio Satō, 29
+Veski Ruañ, 12
+
+```
+Her eksempler vil vise at programmet opfanger at der mangler en linje og en alder. 
+
+
 ### input(csv) -> output(csv) :
 
 1. Byg programmet ( evt.: `Ctrl Shift B`)
@@ -29,7 +42,7 @@ Programmet anvender CLI til at tage:
    - *Vi vælger: `17`*
 4. Indtast din **input .csv-fil** :
    - *Vi vælger: `people-with-age.csv`*
-5. Indtast din **output .csv-fil** :
+5. Indtast den nye **output .csv-fil** :
    - *Vi vælger: `out.csv`*
 
 Din fulde terminal skulle nu ligne dette (Tryk enter):
