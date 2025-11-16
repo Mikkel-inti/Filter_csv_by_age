@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @brief Filters a CSV file by age using command-line arguments.
+ *
+ *
+ * Created for DTU course: 62712 - Basic C Programming (Week 10)
+ * Author: Mikkel Olsen
+ * Date: november 2025
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
