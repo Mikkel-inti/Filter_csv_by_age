@@ -1,6 +1,5 @@
 # Filter csv by age
-Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing**. Programmet implementerer filtrering af data fra en CSV-fil baseret på alder, hvor
-kun de linjer der opfylder en given maksimumalder beholdes. Denne filtrering kan enten udskrives til en ny CSV-fil eller til terminalen.  
+Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing**. Programmet implementerer filtrering af data fra en CSV-fil baseret på en angivet alder, hvor linjerne der opfylder den angivet maksimumalder, bliver beholdt. Denne filtrering kan enten blive udskreve til en ny CSV-fil eller til terminalen.  
 Programmet anvender CLI til at tage:
 - en maksimum alder
 - en valgfri input-CSV-fil
