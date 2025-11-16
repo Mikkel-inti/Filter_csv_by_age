@@ -67,3 +67,4 @@ Din fulde terminal skulle nu ligne dette (Tryk enter):
   - ` "Klara, 17" | ./main.exe 17 `
 
 #### Eksempel udskrift:
+<img width="384" height="60" alt="image" src="https://github.com/user-attachments/assets/8b5b30be-e387-4d38-a167-a6e581fefefe" />
