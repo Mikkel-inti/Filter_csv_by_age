@@ -2,8 +2,14 @@
 Dette C-program er lavet i forbindelse med kursus: **62712- Basic C-programmeing**, 
 
 ## Filer
-- `main.c` – **Samlede kørsel**, her bestemmes om hvorvidt det er algoritmen caesar eller vigenere, samt om det skal krypteres eller dekrypteres. (For vigenere inklusiv KEY)
-- `people-with-age.csv` -
+- `main.c` – **Samlede kørsel**, her bestemmes om hvilket in- og output der skal anvendes i filtreringen.
+- `people-with-age.csv` - Denne csv fil indeholder forskellige navne og aldre, der kan anvendes til at testkøre programmet. 
+
+
+### Funktioner
+- `filter_stream(FILE *istream, FILE *ostream)`
+- Funktionen læser linje for linje fra `istream`( enten en .csv-fil eller standard input ).
+
 
 ## How to use eksempel 
 ### input(csv) -> output(csv) :
