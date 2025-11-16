@@ -17,7 +17,7 @@ Programmet anvender CLI til at tage:
 
 ### Funktioner
 - `filter_stream(FILE *istream, FILE *ostream)`
-- Funktionen læser linje for linje fra `istream`( enten en .csv-fil eller standard input ).
+   -Funktionen filtrerer CSV-linjer fra `istream` baseret på alder og skriver de filtrerede linjer til `ostream`.
 
 
 ## How to use eksempel 
