@@ -31,7 +31,7 @@ Lumio Satō, 29
 Veski Ruañ, 12
 
 ```
-Her eksempler vil vise at programmet opfanger at der mangler en linje og en alder. 
+Her vil eksemplerne vise at programmet opfanger at der mangler en linje og en alder. 
 
 
 ### input(csv) -> output(csv) :
