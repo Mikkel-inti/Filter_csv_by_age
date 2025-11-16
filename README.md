@@ -11,7 +11,8 @@ Programmet anvender CLI til at tage:
 
 ## Filer
 - `main.c` – **Samlede kørsel**, her bestemmes om hvilket in- og output der skal anvendes i filtreringen.
-- `people-with-age.csv` - Denne csv fil indeholder forskellige navne og aldre, der kan anvendes til at testkøre programmet. 
+- `people-with-age.csv` - Denne csv fil indeholder forskellige navne og aldre, der kan anvendes til at testkøre programmet.
+- `Filter-by-age_flowdia.jpg` - Flow diagram for selve programmet. 
 
 
 ### Funktioner
